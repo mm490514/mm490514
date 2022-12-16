@@ -1,7 +1,7 @@
 ### Olá, Eu sou Matheus Mendes
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estudando PHP
+- 🌱 Estudando Laravel
 
 <div align="center">
   <a href="https://github.com/mm490514">
