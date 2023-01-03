@@ -12,6 +12,12 @@
   ## Tecnologias que uso no meu dia
   
   <div style="display: inline_block"><br>   
+  <img align="center" alt="Math-Csharp" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">        
+  </div>
+  
+ 
+  
+  <div style="display: inline_block"><br>   
     <img align="center" alt="Math-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">  
     <img align="center" alt="Math-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" /> 
     <img align="center" alt="Math-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
