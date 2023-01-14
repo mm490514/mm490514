@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/mm490514">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mm490514&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mm490514&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mm490514&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mm490514&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ## Tecnologias que uso no meu dia
